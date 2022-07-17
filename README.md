@@ -1,5 +1,5 @@
 # Instagram-Home-Page-BOOTCAMP-DIO
 Instagram Home Page BOOTCAMP DIO
 
-![image](https://user-images.githubusercontent.com/102186193/179419703-5601d8e1-0308-4f41-b266-8295f9bd7f01.png)
+![image](https://user-images.githubusercontent.com/102186193/179419769-6adc89d3-70dc-4241-a44d-f636352791c6.png)
 
